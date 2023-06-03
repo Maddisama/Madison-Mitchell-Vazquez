@@ -1,7 +1,7 @@
 {
   "name": "online-portfolio",
   "version": "0.1.0",
-  "homepage": "https://maddisama.github.io/Madison-Mitchell-Vazquez",
+  "homepage": "https://maddisama.github.io/madison-mitchell-vazquez",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
