@@ -12,3 +12,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+@media (max-width: 768px) {
+  .container {
+    margin-left: 20px !important;
+  }
+  h1 {
+    font-size: 30px !important;
+  }
+
+  /* .logo-container{
+    
+  } */
+}

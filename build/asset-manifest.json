@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/madison-mitchell-vazquez/static/css/main.981ef6e2.css",
-    "main.js": "/madison-mitchell-vazquez/static/js/main.c6811df7.js",
+    "main.css": "/madison-mitchell-vazquez/static/css/main.18e98bed.css",
+    "main.js": "/madison-mitchell-vazquez/static/js/main.fba9c40d.js",
     "static/js/787.6aa2fdb7.chunk.js": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js",
     "static/media/madison.png": "/madison-mitchell-vazquez/static/media/madison.4f5a486c81e283d3e68b.png",
     "static/media/site-m.png": "/madison-mitchell-vazquez/static/media/site-m.39dc8dffada03cad22c1.png",
@@ -9,12 +9,12 @@
     "static/media/LaBelleAurore.woff2": "/madison-mitchell-vazquez/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/madison-mitchell-vazquez/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/madison-mitchell-vazquez/index.html",
-    "main.981ef6e2.css.map": "/madison-mitchell-vazquez/static/css/main.981ef6e2.css.map",
-    "main.c6811df7.js.map": "/madison-mitchell-vazquez/static/js/main.c6811df7.js.map",
+    "main.18e98bed.css.map": "/madison-mitchell-vazquez/static/css/main.18e98bed.css.map",
+    "main.fba9c40d.js.map": "/madison-mitchell-vazquez/static/js/main.fba9c40d.js.map",
     "787.6aa2fdb7.chunk.js.map": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.981ef6e2.css",
-    "static/js/main.c6811df7.js"
+    "static/css/main.18e98bed.css",
+    "static/js/main.fba9c40d.js"
   ]
 }
