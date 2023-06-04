@@ -90,3 +90,9 @@
     overflow: auto;
   }
 }
+
+@media screen and (max-height: 660px) {
+  .container {
+    overflow: auto;
+  }
+}

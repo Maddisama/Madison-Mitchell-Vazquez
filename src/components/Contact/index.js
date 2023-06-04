@@ -31,8 +31,8 @@ const Contact = () => {
       .then(
         () => {
           alert("Message successfully sent!");
-          //reloads page after submit to clear form
-          window.location.reload(false);
+          //Actually just clears form rather than refresh
+          refForm.current.reset();
         },
         () => {
           alert("Failed to send message, please try again.");
