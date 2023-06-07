@@ -1,17 +1,16 @@
 import "./index.scss";
 
-const ProjectCard = ({ image, title }) => {
+function ProjectCard({ image, title, projectUrl }) {
+  const handleClick = () => {
+    window.open(projectUrl, "_blank");
+  };
+
   return (
-    <div className="project-card">
-      <div className="project-title">
-        <h1>{title}</h1>
-      </div>
-      <div
-        style={{ backgroundImage: `url(${image})` }}
-        className="project-image"
-      ></div>
+    <div className="projectItem" onClick={handleClick}>
+      <div style={{ backgroundImage: `url(${image})` }} className="bgImage" />
+      <h2 className="project-title"> {title} </h2>
     </div>
   );
-};
+}
 
 export default ProjectCard;

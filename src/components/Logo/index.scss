@@ -26,7 +26,7 @@
   bottom: 0;
   left: auto;
   margin: auto;
-  // animation: fadeIn 5.1s ease-in-out forwards, rotate 5.1s linear;
+  animation: fadeIn 5.1s ease-in-out forwards, rotate 5.1s linear;
 }
 
 svg {
@@ -55,8 +55,8 @@ svg {
 
 @media screen and (max-width: 768px) {
   .logo-container {
-    width: 100px;
-    height: 166px;
+    width: 80px;
+    height: 133px;
     right: 11%;
   }
 }
