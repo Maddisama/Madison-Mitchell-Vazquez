@@ -6,6 +6,7 @@ import dm from "../../assets/images/project_images/Drum_Machine.png";
 import pc from "../../assets/images/project_images/Pomodoro_Clock.png";
 import jsc from "../../assets/images/project_images/JavaScript_Calculator.png";
 import rqg from "../../assets/images/project_images/Random_Quotes_Generator.png";
+import Blog from "../../assets/images/project_images/Blog_Site.png";
 import AnimatedLetters from "../AnimatedLetters";
 import Loader from "react-loaders";
 
@@ -25,6 +26,22 @@ const Projects = () => {
   return (
     <>
       <div className="container projects">
+        <h1>
+          <AnimatedLetters
+            letterClass={letterClass}
+            strArray={"Web Apps".split("")}
+            indx={15}
+          />
+        </h1>
+        <div className="projectList">
+          <ProjectCard
+            title={"Blog"}
+            image={Blog}
+            projectUrl={
+              "https://drive.google.com/file/d/1gwfJpYwfosnu4ETM7UzH5rujNMlJ5yS3/view?usp=drive_link"
+            }
+          />
+        </div>
         <h1>
           <AnimatedLetters
             letterClass={letterClass}
