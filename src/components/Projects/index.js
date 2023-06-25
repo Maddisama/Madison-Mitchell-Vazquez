@@ -26,6 +26,7 @@ const Projects = () => {
   return (
     <>
       <div className="container projects">
+        <br />
         <h1>
           <AnimatedLetters
             letterClass={letterClass}
@@ -42,6 +43,7 @@ const Projects = () => {
             }
           />
         </div>
+        <br />
         <h1>
           <AnimatedLetters
             letterClass={letterClass}
