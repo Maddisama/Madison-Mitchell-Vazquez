@@ -7,6 +7,7 @@ import pc from "../../assets/images/project_images/Pomodoro_Clock.png";
 import jsc from "../../assets/images/project_images/JavaScript_Calculator.png";
 import rqg from "../../assets/images/project_images/Random_Quotes_Generator.png";
 import Blog from "../../assets/images/project_images/Blog_Site.png";
+import Dentist from "../../assets/images/project_images/Dentist_Site.png";
 import AnimatedLetters from "../AnimatedLetters";
 import Loader from "react-loaders";
 
@@ -41,6 +42,13 @@ const Projects = () => {
             projectUrl={
               "https://drive.google.com/file/d/1gwfJpYwfosnu4ETM7UzH5rujNMlJ5yS3/view?usp=drive_link"
             }
+          />
+        </div>
+        <div className="projectList">
+          <ProjectCard
+            title={"Dentist"}
+            image={Dentist}
+            projectUrl={"http://thedentalhub.42web.io/services/"}
           />
         </div>
         <br />
