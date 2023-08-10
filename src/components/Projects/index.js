@@ -43,8 +43,6 @@ const Projects = () => {
               "https://drive.google.com/file/d/1gwfJpYwfosnu4ETM7UzH5rujNMlJ5yS3/view?usp=drive_link"
             }
           />
-        </div>
-        <div className="projectList">
           <ProjectCard
             title={"Dentist"}
             image={Dentist}
