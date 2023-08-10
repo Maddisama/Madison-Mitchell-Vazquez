@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/madison-mitchell-vazquez/static/css/main.1197b5bf.css",
-    "main.js": "/madison-mitchell-vazquez/static/js/main.f94e04ea.js",
+    "main.css": "/madison-mitchell-vazquez/static/css/main.157b8b24.css",
+    "main.js": "/madison-mitchell-vazquez/static/js/main.9cd87170.js",
     "static/js/787.6aa2fdb7.chunk.js": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js",
+    "static/media/Dentist_Site.png": "/madison-mitchell-vazquez/static/media/Dentist_Site.07176a82ed41b2f3db80.png",
+    "static/media/Blog_Site.png": "/madison-mitchell-vazquez/static/media/Blog_Site.33dc9122c4f89a606fa6.png",
     "static/media/madison.png": "/madison-mitchell-vazquez/static/media/madison.4f5a486c81e283d3e68b.png",
     "static/media/site-m.png": "/madison-mitchell-vazquez/static/media/site-m.39dc8dffada03cad22c1.png",
     "static/media/Markdown_Previewer.png": "/madison-mitchell-vazquez/static/media/Markdown_Previewer.1479edffc5fbaae1cd3a.png",
@@ -14,12 +16,12 @@
     "static/media/JavaScript_Calculator.png": "/madison-mitchell-vazquez/static/media/JavaScript_Calculator.9bcecc8c9d19eeb99ad2.png",
     "static/media/CoolveticaRg-Regular.woff2": "/madison-mitchell-vazquez/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/madison-mitchell-vazquez/index.html",
-    "main.1197b5bf.css.map": "/madison-mitchell-vazquez/static/css/main.1197b5bf.css.map",
-    "main.f94e04ea.js.map": "/madison-mitchell-vazquez/static/js/main.f94e04ea.js.map",
+    "main.157b8b24.css.map": "/madison-mitchell-vazquez/static/css/main.157b8b24.css.map",
+    "main.9cd87170.js.map": "/madison-mitchell-vazquez/static/js/main.9cd87170.js.map",
     "787.6aa2fdb7.chunk.js.map": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1197b5bf.css",
-    "static/js/main.f94e04ea.js"
+    "static/css/main.157b8b24.css",
+    "static/js/main.9cd87170.js"
   ]
 }
