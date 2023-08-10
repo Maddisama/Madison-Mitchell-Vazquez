@@ -44,9 +44,9 @@ const Projects = () => {
             }
           />
           <ProjectCard
-            title={"Dentist"}
+            title={"TheDentalHub"}
             image={Dentist}
-            projectUrl={"http://thedentalhub.42web.io/services/"}
+            projectUrl={"http://thedentalhub.42web.io"}
           />
         </div>
         <br />
