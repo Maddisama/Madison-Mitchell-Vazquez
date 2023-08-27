@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/madison-mitchell-vazquez/static/css/main.943778d9.css",
+    "main.css": "/madison-mitchell-vazquez/static/css/main.c88f0c4b.css",
     "main.js": "/madison-mitchell-vazquez/static/js/main.b7a7d0f5.js",
     "static/js/787.6aa2fdb7.chunk.js": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js",
     "static/media/Dentist_Site.png": "/madison-mitchell-vazquez/static/media/Dentist_Site.07176a82ed41b2f3db80.png",
@@ -17,12 +17,12 @@
     "static/media/JavaScript_Calculator.png": "/madison-mitchell-vazquez/static/media/JavaScript_Calculator.9bcecc8c9d19eeb99ad2.png",
     "static/media/CoolveticaRg-Regular.woff2": "/madison-mitchell-vazquez/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/madison-mitchell-vazquez/index.html",
-    "main.943778d9.css.map": "/madison-mitchell-vazquez/static/css/main.943778d9.css.map",
+    "main.c88f0c4b.css.map": "/madison-mitchell-vazquez/static/css/main.c88f0c4b.css.map",
     "main.b7a7d0f5.js.map": "/madison-mitchell-vazquez/static/js/main.b7a7d0f5.js.map",
     "787.6aa2fdb7.chunk.js.map": "/madison-mitchell-vazquez/static/js/787.6aa2fdb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.943778d9.css",
+    "static/css/main.c88f0c4b.css",
     "static/js/main.b7a7d0f5.js"
   ]
 }
