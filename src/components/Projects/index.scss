@@ -100,15 +100,27 @@
   font-size: 25px;
 }
 
-@media only screen and (max-width: 1300px) {
+.web-apps {
+  padding-bottom: 2px;
+  padding-top: 9%;
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 800px) {
   .projectList {
     grid-template-columns: 1fr 1fr;
+    padding-left: 1em;
+  }
+  .web-apps {
+    padding-top: 8em;
   }
 }
 
 @media only screen and (max-width: 800px) {
   .projectList {
     grid-template-columns: 1fr;
+  }
+  .web-apps {
+    padding-top: 11em;
   }
 }
 

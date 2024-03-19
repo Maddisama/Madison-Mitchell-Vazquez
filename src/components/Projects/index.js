@@ -8,6 +8,7 @@ import jsc from "../../assets/images/project_images/JavaScript_Calculator.png";
 import rqg from "../../assets/images/project_images/Random_Quotes_Generator.png";
 import Blog from "../../assets/images/project_images/Blog_Site.png";
 import Dentist from "../../assets/images/project_images/Dentist_Site.png";
+import Ecommerce from "../../assets/images/project_images/E-commersion.png";
 import AnimatedLetters from "../AnimatedLetters";
 import Loader from "react-loaders";
 
@@ -28,28 +29,37 @@ const Projects = () => {
     <>
       <div className="container projects">
         <br />
-        <h1>
-          <AnimatedLetters
-            letterClass={letterClass}
-            strArray={"Web Apps".split("")}
-            indx={15}
-          />
-        </h1>
-        <div className="projectList">
-          <ProjectCard
-            title={"Blog"}
-            image={Blog}
-            projectUrl={
-              "https://drive.google.com/file/d/1gwfJpYwfosnu4ETM7UzH5rujNMlJ5yS3/view?usp=drive_link"
-            }
-          />
-          <ProjectCard
-            title={"TheDentalHub"}
-            image={Dentist}
-            projectUrl={"http://thedentalhub.42web.io"}
-          />
+        <div className="web-apps">
+          <h1>
+            <AnimatedLetters
+              letterClass={letterClass}
+              strArray={"Web Apps".split("")}
+              indx={15}
+            />
+          </h1>
+          <p className="disclaimer">
+            *Web apps may need to be loaded twice to function
+          </p>
+          <div className="projectList">
+            <ProjectCard
+              title={"Blog"}
+              image={Blog}
+              projectUrl={
+                "https://drive.google.com/file/d/1gwfJpYwfosnu4ETM7UzH5rujNMlJ5yS3/view?usp=drive_link"
+              }
+            />
+            <ProjectCard
+              title={"TheDentalHub"}
+              image={Dentist}
+              projectUrl={"thedentalhub.wuaze.com"}
+            />
+            <ProjectCard
+              title={"E-commersion"}
+              image={Ecommerce}
+              projectUrl={"https://e-commersion.42web.io/"}
+            />
+          </div>
         </div>
-        <br />
         <h1>
           <AnimatedLetters
             letterClass={letterClass}
