@@ -51,7 +51,7 @@ const Projects = () => {
             <ProjectCard
               title={"TheDentalHub"}
               image={Dentist}
-              projectUrl={"thedentalhub.wuaze.com"}
+              projectUrl={"http://thedentalhub.wuaze.com/"}
             />
             <ProjectCard
               title={"E-commersion"}
